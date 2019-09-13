@@ -1,0 +1,6 @@
+.stack-work/
+euler-haskell.cabal
+*~
+.idea
+*.iml
+dist
