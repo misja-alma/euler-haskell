@@ -1,1 +1,1 @@
-# euler-haskell
+# Haskell solutions for Project Euler
